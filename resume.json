@@ -1,0 +1,164 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "AJ Markow",
+    "label": "Software Developer",
+    "image": "",
+    "email": "aj@ajm.codes",
+    "phone": "(541) 977-6460",
+    "url": "https://www.ajm.codes",
+    "summary": "• Software Developer with 800+ hours of hands-on coding experience.\n • Certified Salesforce Administrator with 4 years of Salesforce expertise.\n • Flexible Problem Solver, Experienced in Technical Support, Training, Mentorship, & Customer Relations.",
+    "location": {
+      "address": "310 NE FIRCREST DR UNIT 303",
+      "postalCode": "OR 97128",
+      "city": "MCMINNVILLE",
+      "countryCode": "US",
+      "region": "Oregon"
+    },
+  "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "ajmarkow",
+        "url": "https://l.ajm.codes/linkedin"
+      },
+      {
+        "network": "Twitter",
+        "username": "ajmcodes",
+        "url": "https://l.ajm.codes/tweets"
+      },
+      {
+        "network": "Github",
+        "username": "ajmarkow",
+        "url": "https://l.ajm.codes/github"
+      },
+      {
+        "network": "Medium",
+        "username": "ajmarkow",
+        "url": "https://l.ajm.codes/medium"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Pied Piper",
+      "location": "Palo Alto, CA",
+      "description": "Awesome compression company",
+      "position": "CEO/President",
+      "url": "http://piedpiper.example.com",
+      "startDate": "2013-12-01",
+      "endDate": "2014-12-01",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "url": "http://coderdojo.example.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": [
+        "Awarded 'Teacher of the Month'"
+      ]
+    }
+  ],
+  "education": [
+ {
+     "institution": "Epicodus",
+     "url": "https://www.epicodus.com",
+     "area":"Full-Stack Software Development",
+     "startDate": "2020-08-01",
+     "endDate": "2021-02-19",
+     "courses": [
+       "JavaScript",
+       "Ruby & Ruby on Rails",
+       "React"
+     ]
+ },
+ {
+      "institution": "Portland State University",
+      "url": "https://www.pdx.edu/",
+      "area": "Economics",
+      "startDate": "2012-09-01",
+      "endDate": "2016-06-01",
+      "courses": [
+        "Managerial Accounting",
+        "Financial Accounting",
+	"Business Communication",
+	"Cost-Benefit Analysis",
+	"Statistics & Probability",
+	"Conflict Resolution"
+      ]
+  }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "references": [
+    {
+      "name": "Jere Dietz",
+      "reference": "(541) 968-4845"
+    },
+    {
+      "name": "Fawn Brooks",
+      "reference": "brooks40204@yahoo.com"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Miss Direction",
+      "description": "A mapping engine that misguides you",
+      "highlights": [
+        "Won award at AIHacks 2016",
+        "Built by all women team of newbie programmers",
+        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+      ],
+      "keywords": [
+        "GoogleMaps",
+        "Chrome Extension",
+        "Javascript"
+      ],
+      "startDate": "2016-08-24",
+      "endDate": "2016-08-24",
+      "url": "missdirection.example.com",
+      "roles": [
+        "Team lead",
+        "Designer"
+      ],
+      "entity": "Smoogle",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
